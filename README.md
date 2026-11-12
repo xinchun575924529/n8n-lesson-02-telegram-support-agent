@@ -67,3 +67,11 @@ n8n-lesson-02-telegram-support-agent/
 - 模板公开页：[n8n.io/workflows/17522](https://n8n.io/workflows/17522/)
 - 本机已验证：**8 个 Code 节点 32/32 单元断言全过 + 7 大场景 42/42 mock 全链断言全过**，并挖出 4 个模板真实缺陷（详见 docs/03 与 docs/05），可放心在此教案基础上二次开发。
 - REST API 获取原始模板 JSON：`https://api.n8n.io/api/workflows/templates/17522`
+
+---
+
+## 🛠️ 远程部署服务 ¥99
+
+不想自己折腾环境？工程师 ToDesk/向日葵 远程帮你把本课工作流装好调通（单课 × 1 次，≤60 分钟）。
+
+👉 [立即购买部署服务](https://n8nbox.cn/cashier?item=svc-remote-deploy-01)
